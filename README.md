@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer:
+<img align="right" alt="Wendi Chen's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ChenWendi2001&show_icons=true">
+I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: I'm interested in deep learning for computer vision and begin to work on it. :eye:
 
-I'm interested in deep learning for computer vision and begin to work on it. :eye:
-
-![](https://github-readme-stats.vercel.app/api?username=ChenWendi2001)
