@@ -30,104 +30,83 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Ir1d">
-        <img src="https://avatars2.githubusercontent.com/u/10709657" width="100px;" alt="Ir1d"/>
+      <a href="https://github.com/CWHer">
+        <img src="https://avatars2.githubusercontent.com/u/31888981" width="100px;" alt="CWHer"/>
       </a>
       <br />
-      <a href="https://github.com/Ir1d">Ir1dXD</a>
+      <a href="https://github.com/CWHer">魍魉°</a>
     </td>
     <td align="center">
-      <a href="https://github.com/xtlsoft">
-        <img src="https://avatars2.githubusercontent.com/u/16159830" width="100px;" alt="xtlsoft"/>
+      <a href="https://github.com/Gun9niR">
+        <img src="https://avatars2.githubusercontent.com/u/52783948" width="100px;" alt="Gun9niR"/>
       </a>
       <br />
-      <a href="https://github.com/xtlsoft">Tianle Xu</a>
+      <a href="https://github.com/Gun9niR">Gun9niR</a>
     </td>
     <td align="center">
-      <a href="https://github.com/tengge1">
-        <img src="https://avatars2.githubusercontent.com/u/10705556" width="100px;" alt="tengge1"/>
+      <a href="https://github.com/Edersnow">
+        <img src="https://avatars2.githubusercontent.com/u/59730016" width="100px;" alt="Edersnow"/>
       </a>
       <br />
-      <a href="https://github.com/tengge1">tengge1</a>
+      <a href="https://github.com/Edersnow">Edersnow</a>
     </td>
     <td align="center">
-      <a href="https://github.com/thanhtoan1196">
-        <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
+      <a href="https://github.com/LighghtEeloo">
+        <img src="https://avatars2.githubusercontent.com/u/24841828" width="100px;" alt="LighghtEeloo"/>
       </a>
       <br />
-      <a href="https://github.com/thanhtoan1196">Toan Tran</a>
+      <a href="https://github.com/LighghtEeloo">LighghtEeloo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/memset0">
-        <img src="https://avatars2.githubusercontent.com/u/34177126" width="100px;" alt="memset0"/>
+      <a href="https://github.com/aruiq">
+        <img src="https://avatars2.githubusercontent.com/u/52989032" width="100px;" alt="aruiq"/>
       </a>
       <br />
-      <a href="https://github.com/memset0">memset0</a>
+      <a href="https://github.com/aruiq">阿睿Q</a>
     </td>
     <td align="center">
-      <a href="https://github.com/refs">
-        <img src="https://avatars2.githubusercontent.com/u/6905948" width="100px;" alt="refs"/>
+      <a href="https://github.com/Dreemurr-T">
+        <img src="https://avatars2.githubusercontent.com/u/62422723" width="100px;" alt="Dreemurr-T"/>
       </a>
       <br />
-      <a href="https://github.com/refs">Alex Unger</a>
+      <a href="https://github.com/Dreemurr-T">Dreemurr-T</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Garfield550">
-        <img src="https://avatars2.githubusercontent.com/u/3471836" width="100px;" alt="Garfield550"/>
+      <a href="https://github.com/ADSWT518">
+        <img src="https://avatars2.githubusercontent.com/u/58338486" width="100px;" alt="ADSWT518"/>
       </a>
       <br />
-      <a href="https://github.com/Garfield550">Garfield Lee</a>
+      <a href="https://github.com/ADSWT518">Yazhou Tang</a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/ChungZH">
-        <img src="https://avatars2.githubusercontent.com/u/42088872" width="100px;" alt="ChungZH"/>
+      <a href="https://github.com/zephyr-zdz">
+        <img src="https://avatars2.githubusercontent.com/u/67674877" width="100px;" alt="zephyr-zdz"/>
       </a>
       <br />
-      <a href="https://github.com/ChungZH">Flex Zhong</a>
+      <a href="https://github.com/zephyr-zdz">zephyr-zdz</a>
     </td>
     <td align="center">
-      <a href="https://github.com/EndlessCheng">
-        <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
+      <a href="https://github.com/yuri-you">
+        <img src="https://avatars2.githubusercontent.com/u/59129407" width="100px;" alt="yuri-you"/>
       </a>
       <br />
-      <a href="https://github.com/EndlessCheng">EndlessCheng</a>
+      <a href="https://github.com/yuri-you">yuri-you</a>
     </td>
     <td align="center">
-      <a href="https://github.com/guofei9987">
-        <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
+      <a href="https://github.com/Jinwb2019">
+        <img src="https://avatars2.githubusercontent.com/u/59530895" width="100px;" alt="Jinwb2019"/>
       </a>
       <br />
-      <a href="https://github.com/guofei9987">郭飞</a>
+      <a href="https://github.com/Jinwb2019">Jinwb2019</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Enter-tainer">
-        <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
+      <a href="https://github.com/Iridoudou">
+        <img src="https://avatars2.githubusercontent.com/u/62940175" width="100px;" alt="Iridoudou"/>
       </a>
       <br />
-      <a href="https://github.com/Enter-tainer">mgt</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Xeonacid">
-        <img src="https://avatars2.githubusercontent.com/u/13995937" width="100px;" alt="Xeonacid"/>
-      </a>
-      <br />
-      <a href="https://github.com/Xeonacid">Xeonacid</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/abc1763613206">
-        <img src="https://avatars2.githubusercontent.com/u/30773956" width="100px;" alt="abc1763613206"/>
-      </a>
-      <br />
-      <a href="https://github.com/abc1763613206">abc1763613206</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/billchenchina">
-        <img src="https://avatars2.githubusercontent.com/u/7758042" width="100px;" alt="billchenchina"/>
-      </a>
-      <br />
-      <a href="https://github.com/billchenchina">billchenchina</a>
+      <a href="https://github.com/Iridoudou">Iridoudou</a>
     </td>
   </tr>
 </table>
