@@ -118,7 +118,10 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++        3 mins          ████████▓░░░░░░░░░░░░░░░░   34.12 % 
+TeX        2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.81 % 
+Markdown   2 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.54 % 
+Python     1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 ```
 <!--END_SECTION:waka-->
 
