@@ -108,6 +108,13 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
       <br />
       <a href="https://github.com/Iridoudou">Iridoudou</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/cnlnpjhsy">
+        <img src="https://avatars2.githubusercontent.com/u/61415268" width="100px;" alt="cnlnpjhsy"/>
+      </a>
+      <br />
+      <a href="https://github.com/cnlnpjhsy">cnlnpjhsy</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
