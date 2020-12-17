@@ -37,6 +37,13 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
       <a href="https://github.com/CWHer">魍魉°</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Mighty-A">
+        <img src="https://avatars2.githubusercontent.com/u/55054549" width="100px;" alt="Mighty-A"/>
+      </a>
+      <br />
+      <a href="https://github.com/Mighty-A">Hangyu Ye</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Gun9niR">
         <img src="https://avatars2.githubusercontent.com/u/52783948" width="100px;" alt="Gun9niR"/>
       </a>
@@ -44,18 +51,18 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
       <a href="https://github.com/Gun9niR">Gun9niR</a>
     </td>
     <td align="center">
+      <a href="https://github.com/JolyneFr">
+        <img src="https://avatars2.githubusercontent.com/u/59022148" width="100px;" alt="JolyneFr"/>
+      </a>
+      <br />
+      <a href="https://github.com/JolyneFr">JolyneFr</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Edersnow">
         <img src="https://avatars2.githubusercontent.com/u/59730016" width="100px;" alt="Edersnow"/>
       </a>
       <br />
       <a href="https://github.com/Edersnow">Edersnow</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Mighty-A">
-        <img src="https://avatars2.githubusercontent.com/u/55054549" width="100px;" alt="Mighty-A"/>
-      </a>
-      <br />
-      <a href="https://github.com/Mighty-A">Hangyu Ye</a>
     </td>
     <td align="center">
       <a href="https://github.com/LighghtEeloo">
@@ -71,6 +78,8 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
       <br />
       <a href="https://github.com/aruiq">阿睿Q</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Dreemurr-T">
         <img src="https://avatars2.githubusercontent.com/u/62422723" width="100px;" alt="Dreemurr-T"/>
@@ -78,8 +87,6 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
       <br />
       <a href="https://github.com/Dreemurr-T">Dreemurr-T</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ADSWT518">
         <img src="https://avatars2.githubusercontent.com/u/58338486" width="100px;" alt="ADSWT518"/>
@@ -93,6 +100,13 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
       </a>
       <br />
       <a href="https://github.com/zephyr-zdz">zephyr-zdz</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LSQsjtu">
+        <img src="https://avatars2.githubusercontent.com/u/59142188" width="100px;" alt="LSQsjtu"/>
+      </a>
+      <br />
+      <a href="https://github.com/LSQsjtu">liushengqi</a>
     </td>
     <td align="center">
       <a href="https://github.com/yuri-you">
@@ -114,13 +128,6 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
       </a>
       <br />
       <a href="https://github.com/Iridoudou">Iridoudou</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/cnlnpjhsy">
-        <img src="https://avatars2.githubusercontent.com/u/61415268" width="100px;" alt="cnlnpjhsy"/>
-      </a>
-      <br />
-      <a href="https://github.com/cnlnpjhsy">cnlnpjhsy</a>
     </td>
   </tr>
 </table>
