@@ -139,7 +139,7 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 February, 2021 - 16 February, 2021
+Week: 10 February, 2021 - 17 February, 2021
 
 
 ```
