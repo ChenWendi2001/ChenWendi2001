@@ -72,27 +72,27 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
       <a href="https://github.com/Edersnow">Edersnow</a>
     </td>
     <td align="center">
+      <a href="https://github.com/aruiq">
+        <img src="https://avatars2.githubusercontent.com/u/52989032" width="100px;" alt="aruiq"/>
+      </a>
+      <br />
+      <a href="https://github.com/aruiq">阿睿Q</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/PeiyuChen1005">
         <img src="https://avatars2.githubusercontent.com/u/56381749" width="100px;" alt="PeiyuChen1005"/>
       </a>
       <br />
       <a href="https://github.com/PeiyuChen1005">Peiyu Chen</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/LighghtEeloo">
         <img src="https://avatars2.githubusercontent.com/u/24841828" width="100px;" alt="LighghtEeloo"/>
       </a>
       <br />
       <a href="https://github.com/LighghtEeloo">LighghtEeloo</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/aruiq">
-        <img src="https://avatars2.githubusercontent.com/u/52989032" width="100px;" alt="aruiq"/>
-      </a>
-      <br />
-      <a href="https://github.com/aruiq">阿睿Q</a>
     </td>
     <td align="center">
       <a href="https://github.com/ADSWT518">
