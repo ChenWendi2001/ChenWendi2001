@@ -139,13 +139,10 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 March, 2021 - 05 April, 2021
+Week: 30 March, 2021 - 06 April, 2021
 
-C             2 hrs 36 mins   ██████████████▓░░░░░░░░░░   58.22 % 
-C++           1 hr 12 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.77 % 
-GAS           17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-Objective-C   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Other         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+C++      1 hr 12 mins    ████████████████████████▒   96.97 % 
+Text     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 ```
 <!--END_SECTION:waka-->
 
