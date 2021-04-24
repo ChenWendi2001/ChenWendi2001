@@ -62,7 +62,7 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
         <img src="https://avatars2.githubusercontent.com/u/59022148" width="100px;" alt="JolyneFr"/>
       </a>
       <br />
-      <a href="https://github.com/JolyneFr">JolyneFr</a>
+      <a href="https://github.com/JolyneFr">Zhenyu Yang</a>
     </td>
     <td align="center">
       <a href="https://github.com/Gun9niR">
