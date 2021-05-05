@@ -44,6 +44,13 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
       <a href="https://github.com/Mighty-A">Hangyu Ye</a>
     </td>
     <td align="center">
+      <a href="https://github.com/davidwang200099">
+        <img src="https://avatars2.githubusercontent.com/u/53116079" width="100px;" alt="davidwang200099"/>
+      </a>
+      <br />
+      <a href="https://github.com/davidwang200099">David Wang</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/LighghtEeloo">
         <img src="https://avatars2.githubusercontent.com/u/24841828" width="100px;" alt="LighghtEeloo"/>
       </a>
@@ -56,13 +63,6 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
       </a>
       <br />
       <a href="https://github.com/JolyneFr">Zhenyu Yang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/davidwang200099">
-        <img src="https://avatars2.githubusercontent.com/u/53116079" width="100px;" alt="davidwang200099"/>
-      </a>
-      <br />
-      <a href="https://github.com/davidwang200099">David Wang</a>
     </td>
     <td align="center">
       <a href="https://github.com/Gun9niR">
@@ -81,18 +81,18 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/PeiyuChen1005">
-        <img src="https://avatars2.githubusercontent.com/u/56381749" width="100px;" alt="PeiyuChen1005"/>
-      </a>
-      <br />
-      <a href="https://github.com/PeiyuChen1005">Peiyu Chen</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ADSWT518">
         <img src="https://avatars2.githubusercontent.com/u/58338486" width="100px;" alt="ADSWT518"/>
       </a>
       <br />
       <a href="https://github.com/ADSWT518">Yazhou Tang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PeiyuChen1005">
+        <img src="https://avatars2.githubusercontent.com/u/56381749" width="100px;" alt="PeiyuChen1005"/>
+      </a>
+      <br />
+      <a href="https://github.com/PeiyuChen1005">Peiyu Chen</a>
     </td>
     <td align="center">
       <a href="https://github.com/aruiq">
