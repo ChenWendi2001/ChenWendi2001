@@ -41,7 +41,7 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
         <img src="https://avatars2.githubusercontent.com/u/31888981" width="100px;" alt="CWHer"/>
       </a>
       <br />
-      <a href="https://github.com/CWHer">CWHer</a>
+      <a href="https://github.com/CWHer">Wenhao Chen</a>
     </td>
     <td align="center">
       <a href="https://github.com/davidwang200099">
