@@ -58,6 +58,13 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
       <a href="https://github.com/davidwang200099">David Wang</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Gun9niR">
+        <img src="https://avatars2.githubusercontent.com/u/52783948" width="100px;" alt="Gun9niR"/>
+      </a>
+      <br />
+      <a href="https://github.com/Gun9niR">Gun9niR</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Mighty-A">
         <img src="https://avatars2.githubusercontent.com/u/55054549" width="100px;" alt="Mighty-A"/>
       </a>
@@ -71,21 +78,14 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
       <br />
       <a href="https://github.com/LighghtEeloo">LighghtEeloo</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ADSWT518">
         <img src="https://avatars2.githubusercontent.com/u/58338486" width="100px;" alt="ADSWT518"/>
       </a>
       <br />
       <a href="https://github.com/ADSWT518">Yazhou Tang</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Gun9niR">
-        <img src="https://avatars2.githubusercontent.com/u/52783948" width="100px;" alt="Gun9niR"/>
-      </a>
-      <br />
-      <a href="https://github.com/Gun9niR">Gun9niR</a>
     </td>
     <td align="center">
       <a href="https://github.com/Emiyalzn">
@@ -123,11 +123,11 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
       <a href="https://github.com/xuxian73">Jason X</a>
     </td>
     <td align="center">
-      <a href="https://github.com/yinwaii">
-        <img src="https://avatars2.githubusercontent.com/u/58301225" width="100px;" alt="yinwaii"/>
+      <a href="https://github.com/Iridoudou">
+        <img src="https://avatars2.githubusercontent.com/u/62940175" width="100px;" alt="Iridoudou"/>
       </a>
       <br />
-      <a href="https://github.com/yinwaii">yinwai</a>
+      <a href="https://github.com/Iridoudou">Dou Yiming</a>
     </td>
   </tr>
 </table>
