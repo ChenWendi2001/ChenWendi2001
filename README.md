@@ -72,20 +72,20 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
       <a href="https://github.com/ADSWT518">Yazhou Tang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Mighty-A">
-        <img src="https://avatars2.githubusercontent.com/u/55054549" width="100px;" alt="Mighty-A"/>
-      </a>
-      <br />
-      <a href="https://github.com/Mighty-A">Hangyu Ye</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/LighghtEeloo">
         <img src="https://avatars2.githubusercontent.com/u/24841828" width="100px;" alt="LighghtEeloo"/>
       </a>
       <br />
       <a href="https://github.com/LighghtEeloo">LighghtEeloo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Mighty-A">
+        <img src="https://avatars2.githubusercontent.com/u/55054549" width="100px;" alt="Mighty-A"/>
+      </a>
+      <br />
+      <a href="https://github.com/Mighty-A">Hangyu Ye</a>
     </td>
     <td align="center">
       <a href="https://github.com/Emiyalzn">
