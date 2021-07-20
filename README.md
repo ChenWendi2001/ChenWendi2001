@@ -113,7 +113,7 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
         <img src="https://avatars2.githubusercontent.com/u/62940175" width="100px;" alt="Iridoudou"/>
       </a>
       <br />
-      <a href="https://github.com/Iridoudou">Dou Yiming</a>
+      <a href="https://github.com/Iridoudou">Yiming Dou</a>
     </td>
     <td align="center">
       <a href="https://github.com/Edersnow">
