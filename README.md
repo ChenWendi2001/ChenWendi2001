@@ -139,7 +139,7 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 July, 2021 - 20 July, 2021
+Week: 15 July, 2021 - 21 July, 2021
 
 Python   5 mins          █████████████████▒░░░░░░░   68.97 % 
 Rust     1 min           █████▓░░░░░░░░░░░░░░░░░░░   22.12 % 
