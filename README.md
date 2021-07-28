@@ -44,18 +44,18 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
       <a href="https://github.com/Victrid">Jiang Weihao</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Gun9niR">
-        <img src="https://avatars2.githubusercontent.com/u/52783948" width="100px;" alt="Gun9niR"/>
-      </a>
-      <br />
-      <a href="https://github.com/Gun9niR">Gun9niR</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/YanjieZe">
         <img src="https://avatars2.githubusercontent.com/u/59699800" width="100px;" alt="YanjieZe"/>
       </a>
       <br />
       <a href="https://github.com/YanjieZe">theLastRefugee</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Gun9niR">
+        <img src="https://avatars2.githubusercontent.com/u/52783948" width="100px;" alt="Gun9niR"/>
+      </a>
+      <br />
+      <a href="https://github.com/Gun9niR">Gun9niR</a>
     </td>
     <td align="center">
       <a href="https://github.com/CWHer">
