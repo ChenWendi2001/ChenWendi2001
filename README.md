@@ -65,12 +65,21 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
       <a href="https://github.com/CWHer">Wenhao Chen</a>
     </td>
     <td align="center">
+      <a href="https://github.com/LighghtEeloo">
+        <img src="https://avatars2.githubusercontent.com/u/24841828" width="100px;" alt="LighghtEeloo"/>
+      </a>
+      <br />
+      <a href="https://github.com/LighghtEeloo">LighghtEeloo</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ADSWT518">
         <img src="https://avatars2.githubusercontent.com/u/58338486" width="100px;" alt="ADSWT518"/>
       </a>
       <br />
       <a href="https://github.com/ADSWT518">Yazhou Tang</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/JolyneFr">
         <img src="https://avatars2.githubusercontent.com/u/59022148" width="100px;" alt="JolyneFr"/>
@@ -78,8 +87,6 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
       <br />
       <a href="https://github.com/JolyneFr">Zhenyu Yang</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/davidwang200099">
         <img src="https://avatars2.githubusercontent.com/u/53116079" width="100px;" alt="davidwang200099"/>
@@ -93,13 +100,6 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
       </a>
       <br />
       <a href="https://github.com/Emiyalzn">Zenan Li</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/LighghtEeloo">
-        <img src="https://avatars2.githubusercontent.com/u/24841828" width="100px;" alt="LighghtEeloo"/>
-      </a>
-      <br />
-      <a href="https://github.com/LighghtEeloo">LighghtEeloo</a>
     </td>
     <td align="center">
       <a href="https://github.com/Mighty-A">
