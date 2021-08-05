@@ -102,6 +102,13 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
       <a href="https://github.com/Emiyalzn">Zenan Li</a>
     </td>
     <td align="center">
+      <a href="https://github.com/markcty">
+        <img src="https://avatars2.githubusercontent.com/u/54015375" width="100px;" alt="markcty"/>
+      </a>
+      <br />
+      <a href="https://github.com/markcty">markcty</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Mighty-A">
         <img src="https://avatars2.githubusercontent.com/u/55054549" width="100px;" alt="Mighty-A"/>
       </a>
@@ -121,13 +128,6 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
       </a>
       <br />
       <a href="https://github.com/Edersnow">Edersnow</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/PeiyuChen1005">
-        <img src="https://avatars2.githubusercontent.com/u/56381749" width="100px;" alt="PeiyuChen1005"/>
-      </a>
-      <br />
-      <a href="https://github.com/PeiyuChen1005">Peiyu Chen</a>
     </td>
   </tr>
 </table>
