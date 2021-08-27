@@ -72,20 +72,20 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
       <a href="https://github.com/CWHer">Wenhao Chen</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Emiyalzn">
-        <img src="https://avatars2.githubusercontent.com/u/67998047" width="100px;" alt="Emiyalzn"/>
-      </a>
-      <br />
-      <a href="https://github.com/Emiyalzn">Zenan Li</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/ADSWT518">
         <img src="https://avatars2.githubusercontent.com/u/58338486" width="100px;" alt="ADSWT518"/>
       </a>
       <br />
       <a href="https://github.com/ADSWT518">Yazhou Tang</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Emiyalzn">
+        <img src="https://avatars2.githubusercontent.com/u/67998047" width="100px;" alt="Emiyalzn"/>
+      </a>
+      <br />
+      <a href="https://github.com/Emiyalzn">Zenan Li</a>
     </td>
     <td align="center">
       <a href="https://github.com/JolyneFr">
