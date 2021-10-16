@@ -116,18 +116,18 @@ I'm Wendi Chen, a sophomore from SJTU, majoring in Computer Science. :computer: 
       <a href="https://github.com/markcty">markcty</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Mighty-A">
-        <img src="https://avatars2.githubusercontent.com/u/55054549" width="100px;" alt="Mighty-A"/>
-      </a>
-      <br />
-      <a href="https://github.com/Mighty-A">Hangyu Ye</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Dou-Yiming">
         <img src="https://avatars2.githubusercontent.com/u/62940175" width="100px;" alt="Dou-Yiming"/>
       </a>
       <br />
       <a href="https://github.com/Dou-Yiming">Yiming Dou</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Mighty-A">
+        <img src="https://avatars2.githubusercontent.com/u/55054549" width="100px;" alt="Mighty-A"/>
+      </a>
+      <br />
+      <a href="https://github.com/Mighty-A">Hangyu Ye</a>
     </td>
   </tr>
 </table>
