@@ -116,18 +116,18 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/markcty">markcty</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Dou-Yiming">
-        <img src="https://avatars2.githubusercontent.com/u/62940175" width="100px;" alt="Dou-Yiming"/>
-      </a>
-      <br />
-      <a href="https://github.com/Dou-Yiming">Yiming Dou</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/MountBro">
         <img src="https://avatars2.githubusercontent.com/u/52434357" width="100px;" alt="MountBro"/>
       </a>
       <br />
       <a href="https://github.com/MountBro">Ethan Jia</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Dou-Yiming">
+        <img src="https://avatars2.githubusercontent.com/u/62940175" width="100px;" alt="Dou-Yiming"/>
+      </a>
+      <br />
+      <a href="https://github.com/Dou-Yiming">Yiming Dou</a>
     </td>
   </tr>
 </table>
