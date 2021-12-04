@@ -139,13 +139,13 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 November, 2021 - 02 December, 2021
+Week: 27 November, 2021 - 03 December, 2021
 
-C#         8 hrs 10 mins   ███████████████▒░░░░░░░░░   61.01 % 
-Markdown   2 hrs 42 mins   █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-Python     1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-C++        27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-YAML       21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+C#         7 hrs 48 mins   █████████████▓░░░░░░░░░░░   54.57 % 
+Markdown   2 hrs 43 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.04 % 
+Python     2 hrs 28 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.35 % 
+C++        27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+YAML       21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 <!--END_SECTION:waka-->
 
