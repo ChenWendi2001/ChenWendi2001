@@ -58,18 +58,18 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/xavihart">Chris Xue</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Gun9niR">
-        <img src="https://avatars2.githubusercontent.com/u/52783948" width="100px;" alt="Gun9niR"/>
-      </a>
-      <br />
-      <a href="https://github.com/Gun9niR">Gun9niR</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ADSWT518">
         <img src="https://avatars2.githubusercontent.com/u/58338486" width="100px;" alt="ADSWT518"/>
       </a>
       <br />
       <a href="https://github.com/ADSWT518">Yazhou Tang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Gun9niR">
+        <img src="https://avatars2.githubusercontent.com/u/52783948" width="100px;" alt="Gun9niR"/>
+      </a>
+      <br />
+      <a href="https://github.com/Gun9niR">Gun9niR</a>
     </td>
     <td align="center">
       <a href="https://github.com/LighghtEeloo">
@@ -109,18 +109,18 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/JolyneFr">Zhenyu Yang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/davidwang200099">
-        <img src="https://avatars2.githubusercontent.com/u/53116079" width="100px;" alt="davidwang200099"/>
-      </a>
-      <br />
-      <a href="https://github.com/davidwang200099">David Wang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/markcty">
         <img src="https://avatars2.githubusercontent.com/u/54015375" width="100px;" alt="markcty"/>
       </a>
       <br />
       <a href="https://github.com/markcty">markcty</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/davidwang200099">
+        <img src="https://avatars2.githubusercontent.com/u/53116079" width="100px;" alt="davidwang200099"/>
+      </a>
+      <br />
+      <a href="https://github.com/davidwang200099">David Wang</a>
     </td>
     <td align="center">
       <a href="https://github.com/MountBro">
