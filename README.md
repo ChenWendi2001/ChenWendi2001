@@ -62,7 +62,7 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
         <img src="https://avatars2.githubusercontent.com/u/52783948" width="100px;" alt="Gun9niR"/>
       </a>
       <br />
-      <a href="https://github.com/Gun9niR">Gun9niR</a>
+      <a href="https://github.com/Gun9niR">Zhidong Guo</a>
     </td>
     <td align="center">
       <a href="https://github.com/ADSWT518">
