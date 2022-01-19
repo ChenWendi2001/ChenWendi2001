@@ -139,7 +139,7 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 January, 2022 - 17 January, 2022
+Week: 12 January, 2022 - 18 January, 2022
 
 YAML     1 hr 8 mins     █████████████▓░░░░░░░░░░░   54.81 % 
 Python   39 mins         ███████▓░░░░░░░░░░░░░░░░░   31.22 % 
