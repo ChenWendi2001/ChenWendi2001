@@ -37,18 +37,18 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/MisakaCenter">Hanzhi Liu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Victrid">
-        <img src="https://avatars2.githubusercontent.com/u/39787044" width="100px;" alt="Victrid"/>
-      </a>
-      <br />
-      <a href="https://github.com/Victrid">Jiang Weihao</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/YanjieZe">
         <img src="https://avatars2.githubusercontent.com/u/59699800" width="100px;" alt="YanjieZe"/>
       </a>
       <br />
       <a href="https://github.com/YanjieZe">theLastRefugee</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Victrid">
+        <img src="https://avatars2.githubusercontent.com/u/39787044" width="100px;" alt="Victrid"/>
+      </a>
+      <br />
+      <a href="https://github.com/Victrid">Jiang Weihao</a>
     </td>
     <td align="center">
       <a href="https://github.com/xavihart">
@@ -109,6 +109,13 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/JolyneFr">Zhenyu Yang</a>
     </td>
     <td align="center">
+      <a href="https://github.com/MountBro">
+        <img src="https://avatars2.githubusercontent.com/u/52434357" width="100px;" alt="MountBro"/>
+      </a>
+      <br />
+      <a href="https://github.com/MountBro">Ethan Jia</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/markcty">
         <img src="https://avatars2.githubusercontent.com/u/54015375" width="100px;" alt="markcty"/>
       </a>
@@ -121,13 +128,6 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
       </a>
       <br />
       <a href="https://github.com/davidwang200099">David Wang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MountBro">
-        <img src="https://avatars2.githubusercontent.com/u/52434357" width="100px;" alt="MountBro"/>
-      </a>
-      <br />
-      <a href="https://github.com/MountBro">Ethan Jia</a>
     </td>
   </tr>
 </table>
