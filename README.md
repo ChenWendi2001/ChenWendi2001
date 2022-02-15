@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="right" alt="Wendi Chen's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ChenWendi2001&show_icons=true">
-I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm interested in deep learning for computer vision and begin to work on it. :eye:
+I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm currently working on deep learning for computer vision. :eye:
 
 - :book: C++ & Qt Development
-- :notes: Python Development
-- :fire: PyTorch in Learning
-- :balloon: Web in Learning
+- :fire: Python & PyTorch Development
+- :balloon: Rust, Web, and so on
 
 ---
 
