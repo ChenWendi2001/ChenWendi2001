@@ -19,7 +19,8 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
 
 - :book: C++ & Qt Development
 - :fire: Python & PyTorch Development
-- :balloon: Rust, Web, and so on
+- :balloon: Rust
+- :notes: Web
 
 ---
 
