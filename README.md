@@ -41,7 +41,7 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
         <img src="https://avatars2.githubusercontent.com/u/59699800" width="100px;" alt="YanjieZe"/>
       </a>
       <br />
-      <a href="https://github.com/YanjieZe">theLastRefugee</a>
+      <a href="https://github.com/YanjieZe">Last</a>
     </td>
     <td align="center">
       <a href="https://github.com/Victrid">
