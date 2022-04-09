@@ -65,34 +65,34 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/Emiyalzn">Zenan Li</a>
     </td>
     <td align="center">
-      <a href="https://github.com/xavihart">
-        <img src="https://avatars2.githubusercontent.com/u/46107454" width="100px;" alt="xavihart"/>
-      </a>
-      <br />
-      <a href="https://github.com/xavihart">Chris Xue</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/junqi-xie">
         <img src="https://avatars2.githubusercontent.com/u/43510903" width="100px;" alt="junqi-xie"/>
       </a>
       <br />
       <a href="https://github.com/junqi-xie">Junqi Xie</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <a href="https://github.com/ADSWT518">
-        <img src="https://avatars2.githubusercontent.com/u/58338486" width="100px;" alt="ADSWT518"/>
+      <a href="https://github.com/xavihart">
+        <img src="https://avatars2.githubusercontent.com/u/46107454" width="100px;" alt="xavihart"/>
       </a>
       <br />
-      <a href="https://github.com/ADSWT518">Yazhou Tang</a>
+      <a href="https://github.com/xavihart">Chris Xue</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/LighghtEeloo">
         <img src="https://avatars2.githubusercontent.com/u/24841828" width="100px;" alt="LighghtEeloo"/>
       </a>
       <br />
       <a href="https://github.com/LighghtEeloo">LighghtEeloo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ADSWT518">
+        <img src="https://avatars2.githubusercontent.com/u/58338486" width="100px;" alt="ADSWT518"/>
+      </a>
+      <br />
+      <a href="https://github.com/ADSWT518">Yazhou Tang</a>
     </td>
     <td align="center">
       <a href="https://github.com/Dou-Yiming">
