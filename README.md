@@ -140,14 +140,13 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2022 - To: 20 April 2022
+From: 14 April 2022 - To: 21 April 2022
 
-JavaScript   7 hrs 38 mins   ███████████▒░░░░░░░░░░░░░   45.61 %
-Python       5 hrs 53 mins   ████████▓░░░░░░░░░░░░░░░░   35.15 %
-CSS          1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-YAML         43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-HTML         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-Markdown     24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Python       7 hrs 36 mins   ████████████░░░░░░░░░░░░░   48.02 %
+JavaScript   6 hrs 9 mins    █████████▓░░░░░░░░░░░░░░░   38.85 %
+YAML         52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+Markdown     24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 ```
 
 <!--END_SECTION:waka-->
