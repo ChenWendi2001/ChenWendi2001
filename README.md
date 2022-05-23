@@ -58,18 +58,18 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/Victrid">Jiang Weihao</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Gun9niR">
-        <img src="https://avatars2.githubusercontent.com/u/52783948" width="100px;" alt="Gun9niR"/>
-      </a>
-      <br />
-      <a href="https://github.com/Gun9niR">Zhidong Guo</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Emiyalzn">
         <img src="https://avatars2.githubusercontent.com/u/67998047" width="100px;" alt="Emiyalzn"/>
       </a>
       <br />
       <a href="https://github.com/Emiyalzn">Zenan Li</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Gun9niR">
+        <img src="https://avatars2.githubusercontent.com/u/52783948" width="100px;" alt="Gun9niR"/>
+      </a>
+      <br />
+      <a href="https://github.com/Gun9niR">Zhidong Guo</a>
     </td>
     <td align="center">
       <a href="https://github.com/junqi-xie">
@@ -95,18 +95,18 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/ADSWT518">Yazhou Tang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/LighghtEeloo">
-        <img src="https://avatars2.githubusercontent.com/u/24841828" width="100px;" alt="LighghtEeloo"/>
-      </a>
-      <br />
-      <a href="https://github.com/LighghtEeloo">LighghtEeloo</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Dou-Yiming">
         <img src="https://avatars2.githubusercontent.com/u/62940175" width="100px;" alt="Dou-Yiming"/>
       </a>
       <br />
       <a href="https://github.com/Dou-Yiming">Yiming Dou</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LighghtEeloo">
+        <img src="https://avatars2.githubusercontent.com/u/24841828" width="100px;" alt="LighghtEeloo"/>
+      </a>
+      <br />
+      <a href="https://github.com/LighghtEeloo">LighghtEeloo</a>
     </td>
     <td align="center">
       <a href="https://github.com/CWHer">
