@@ -65,18 +65,18 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/Victrid">Jiang Weihao</a>
     </td>
     <td align="center">
-      <a href="https://github.com/junqi-xie">
-        <img src="https://avatars2.githubusercontent.com/u/43510903" width="100px;" alt="junqi-xie"/>
-      </a>
-      <br />
-      <a href="https://github.com/junqi-xie">Junqi Xie</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Gun9niR">
         <img src="https://avatars2.githubusercontent.com/u/52783948" width="100px;" alt="Gun9niR"/>
       </a>
       <br />
       <a href="https://github.com/Gun9niR">Zhidong Guo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/junqi-xie">
+        <img src="https://avatars2.githubusercontent.com/u/43510903" width="100px;" alt="junqi-xie"/>
+      </a>
+      <br />
+      <a href="https://github.com/junqi-xie">Junqi Xie</a>
     </td>
   </tr>
   <tr>
@@ -116,18 +116,18 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/CWHer">Wenhao Chen</a>
     </td>
     <td align="center">
-      <a href="https://github.com/JolyneFr">
-        <img src="https://avatars2.githubusercontent.com/u/59022148" width="100px;" alt="JolyneFr"/>
-      </a>
-      <br />
-      <a href="https://github.com/JolyneFr">Zhenyu Yang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Monster-007">
         <img src="https://avatars2.githubusercontent.com/u/73067232" width="100px;" alt="Monster-007"/>
       </a>
       <br />
       <a href="https://github.com/Monster-007">Eureka3069</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JolyneFr">
+        <img src="https://avatars2.githubusercontent.com/u/59022148" width="100px;" alt="JolyneFr"/>
+      </a>
+      <br />
+      <a href="https://github.com/JolyneFr">Zhenyu Yang</a>
     </td>
   </tr>
 </table>
