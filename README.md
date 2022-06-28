@@ -81,18 +81,18 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/xavihart">
-        <img src="https://avatars2.githubusercontent.com/u/46107454" width="100px;" alt="xavihart"/>
-      </a>
-      <br />
-      <a href="https://github.com/xavihart">Chris Xue</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Dou-Yiming">
         <img src="https://avatars2.githubusercontent.com/u/62940175" width="100px;" alt="Dou-Yiming"/>
       </a>
       <br />
       <a href="https://github.com/Dou-Yiming">Yiming Dou</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/xavihart">
+        <img src="https://avatars2.githubusercontent.com/u/46107454" width="100px;" alt="xavihart"/>
+      </a>
+      <br />
+      <a href="https://github.com/xavihart">Chris Xue</a>
     </td>
     <td align="center">
       <a href="https://github.com/ADSWT518">
