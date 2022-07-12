@@ -120,7 +120,7 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
         <img src="https://avatars2.githubusercontent.com/u/73067232" width="100px;" alt="Monster-007"/>
       </a>
       <br />
-      <a href="https://github.com/Monster-007">Eureka3069</a>
+      <a href="https://github.com/Monster-007">Alex3069</a>
     </td>
     <td align="center">
       <a href="https://github.com/JolyneFr">
