@@ -140,10 +140,10 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 July 2022 - To: 28 July 2022
+From: 22 July 2022 - To: 29 July 2022
 
-Python       6 hrs 38 mins   ████████████░░░░░░░░░░░░░   47.75 %
-Other        3 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   27.58 %
+Python   6 hrs 49 mins   ████████████▓░░░░░░░░░░░░   50.56 %
+Other    3 hrs 32 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.20 %
 ```
 
 <!--END_SECTION:waka-->
