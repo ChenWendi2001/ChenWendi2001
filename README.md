@@ -92,7 +92,7 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
         <img src="https://avatars2.githubusercontent.com/u/43510903" width="100px;" alt="junqi-xie"/>
       </a>
       <br />
-      <a href="https://github.com/junqi-xie">CoderCatJQX</a>
+      <a href="https://github.com/junqi-xie">AzureSquirrelJQX</a>
     </td>
     <td align="center">
       <a href="https://github.com/ADSWT518">
