@@ -88,18 +88,18 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/Gun9niR">Zhidong Guo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/CWHer">
-        <img src="https://avatars2.githubusercontent.com/u/31888981" width="100px;" alt="CWHer"/>
-      </a>
-      <br />
-      <a href="https://github.com/CWHer">Wenhao Chen</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/LighghtEeloo">
         <img src="https://avatars2.githubusercontent.com/u/24841828" width="100px;" alt="LighghtEeloo"/>
       </a>
       <br />
       <a href="https://github.com/LighghtEeloo">LighghtEeloo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/CWHer">
+        <img src="https://avatars2.githubusercontent.com/u/31888981" width="100px;" alt="CWHer"/>
+      </a>
+      <br />
+      <a href="https://github.com/CWHer">Wenhao Chen</a>
     </td>
     <td align="center">
       <a href="https://github.com/ADSWT518">
@@ -116,18 +116,18 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/Monster-007">Alex3069</a>
     </td>
     <td align="center">
+      <a href="https://github.com/fangtiancheng">
+        <img src="https://avatars2.githubusercontent.com/u/67567242" width="100px;" alt="fangtiancheng"/>
+      </a>
+      <br />
+      <a href="https://github.com/fangtiancheng">方天宬</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/JolyneFr">
         <img src="https://avatars2.githubusercontent.com/u/59022148" width="100px;" alt="JolyneFr"/>
       </a>
       <br />
       <a href="https://github.com/JolyneFr">Zhenyu Yang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/markcty">
-        <img src="https://avatars2.githubusercontent.com/u/54015375" width="100px;" alt="markcty"/>
-      </a>
-      <br />
-      <a href="https://github.com/markcty">markcty</a>
     </td>
   </tr>
 </table>
