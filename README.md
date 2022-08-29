@@ -44,6 +44,13 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/MisakaCenter">Hanzhi Liu</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Galaxies99">
+        <img src="https://avatars2.githubusercontent.com/u/48870052" width="100px;" alt="Galaxies99"/>
+      </a>
+      <br />
+      <a href="https://github.com/Galaxies99">Tony "Galaxies" Fang</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/YanjieZe">
         <img src="https://avatars2.githubusercontent.com/u/59699800" width="100px;" alt="YanjieZe"/>
       </a>
@@ -58,13 +65,6 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/Emiyalzn">Zenan Li</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Dou-Yiming">
-        <img src="https://avatars2.githubusercontent.com/u/62940175" width="100px;" alt="Dou-Yiming"/>
-      </a>
-      <br />
-      <a href="https://github.com/Dou-Yiming">Yiming Dou</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Victrid">
         <img src="https://avatars2.githubusercontent.com/u/39787044" width="100px;" alt="Victrid"/>
       </a>
@@ -72,14 +72,21 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/Victrid">Jiang Weihao</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Dou-Yiming">
+        <img src="https://avatars2.githubusercontent.com/u/62940175" width="100px;" alt="Dou-Yiming"/>
+      </a>
+      <br />
+      <a href="https://github.com/Dou-Yiming">Yiming Dou</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/xavihart">
         <img src="https://avatars2.githubusercontent.com/u/46107454" width="100px;" alt="xavihart"/>
       </a>
       <br />
       <a href="https://github.com/xavihart">Chris Xue</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Gun9niR">
         <img src="https://avatars2.githubusercontent.com/u/52783948" width="100px;" alt="Gun9niR"/>
@@ -121,13 +128,6 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
       </a>
       <br />
       <a href="https://github.com/fangtiancheng">方天宬</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/JolyneFr">
-        <img src="https://avatars2.githubusercontent.com/u/59022148" width="100px;" alt="JolyneFr"/>
-      </a>
-      <br />
-      <a href="https://github.com/JolyneFr">Zhenyu Yang</a>
     </td>
   </tr>
 </table>
