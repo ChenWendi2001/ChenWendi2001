@@ -81,13 +81,6 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/xavihart">
-        <img src="https://avatars2.githubusercontent.com/u/46107454" width="100px;" alt="xavihart"/>
-      </a>
-      <br />
-      <a href="https://github.com/xavihart">Chris Xue</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Gun9niR">
         <img src="https://avatars2.githubusercontent.com/u/52783948" width="100px;" alt="Gun9niR"/>
       </a>
@@ -95,11 +88,25 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/Gun9niR">Zhidong Guo</a>
     </td>
     <td align="center">
+      <a href="https://github.com/xavihart">
+        <img src="https://avatars2.githubusercontent.com/u/46107454" width="100px;" alt="xavihart"/>
+      </a>
+      <br />
+      <a href="https://github.com/xavihart">Chris Xue</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/CWHer">
         <img src="https://avatars2.githubusercontent.com/u/31888981" width="100px;" alt="CWHer"/>
       </a>
       <br />
       <a href="https://github.com/CWHer">Wenhao Chen</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/junqi-xie">
+        <img src="https://avatars2.githubusercontent.com/u/43510903" width="100px;" alt="junqi-xie"/>
+      </a>
+      <br />
+      <a href="https://github.com/junqi-xie">Junqi Xie</a>
     </td>
     <td align="center">
       <a href="https://github.com/LighghtEeloo">
@@ -121,13 +128,6 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
       </a>
       <br />
       <a href="https://github.com/Monster-007">Alex3069</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/fangtiancheng">
-        <img src="https://avatars2.githubusercontent.com/u/67567242" width="100px;" alt="fangtiancheng"/>
-      </a>
-      <br />
-      <a href="https://github.com/fangtiancheng">方天宬</a>
     </td>
   </tr>
 </table>
