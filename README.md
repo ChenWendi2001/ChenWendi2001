@@ -109,13 +109,6 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/CWHer">Wenhao Chen</a>
     </td>
     <td align="center">
-      <a href="https://github.com/junqi-xie">
-        <img src="https://avatars2.githubusercontent.com/u/43510903" width="100px;" alt="junqi-xie"/>
-      </a>
-      <br />
-      <a href="https://github.com/junqi-xie">Junqi Xie</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ADSWT518">
         <img src="https://avatars2.githubusercontent.com/u/58338486" width="100px;" alt="ADSWT518"/>
       </a>
@@ -128,6 +121,13 @@ I'm Wendi Chen, a junior from SJTU, majoring in Computer Science. :computer: I'm
       </a>
       <br />
       <a href="https://github.com/Monster-007">Alex3069</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fangtiancheng">
+        <img src="https://avatars2.githubusercontent.com/u/67567242" width="100px;" alt="fangtiancheng"/>
+      </a>
+      <br />
+      <a href="https://github.com/fangtiancheng">方天宬</a>
     </td>
   </tr>
 </table>
