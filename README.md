@@ -88,18 +88,18 @@ I'm Wendi Chen, a senior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/Gun9niR">Zhidong Guo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/LighghtEeloo">
-        <img src="https://avatars2.githubusercontent.com/u/24841828" width="100px;" alt="LighghtEeloo"/>
-      </a>
-      <br />
-      <a href="https://github.com/LighghtEeloo">LighghtEeloo</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CWHer">
         <img src="https://avatars2.githubusercontent.com/u/31888981" width="100px;" alt="CWHer"/>
       </a>
       <br />
       <a href="https://github.com/CWHer">Wenhao Chen</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LighghtEeloo">
+        <img src="https://avatars2.githubusercontent.com/u/24841828" width="100px;" alt="LighghtEeloo"/>
+      </a>
+      <br />
+      <a href="https://github.com/LighghtEeloo">LighghtEeloo</a>
     </td>
     <td align="center">
       <a href="https://github.com/xavihart">
@@ -116,18 +116,18 @@ I'm Wendi Chen, a senior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/ADSWT518">Yazhou Tang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Monster-007">
-        <img src="https://avatars2.githubusercontent.com/u/73067232" width="100px;" alt="Monster-007"/>
-      </a>
-      <br />
-      <a href="https://github.com/Monster-007">Alex3069</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/fangtiancheng">
         <img src="https://avatars2.githubusercontent.com/u/67567242" width="100px;" alt="fangtiancheng"/>
       </a>
       <br />
       <a href="https://github.com/fangtiancheng">方天宬</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Monster-007">
+        <img src="https://avatars2.githubusercontent.com/u/73067232" width="100px;" alt="Monster-007"/>
+      </a>
+      <br />
+      <a href="https://github.com/Monster-007">Alex3069</a>
     </td>
   </tr>
 </table>
