@@ -123,11 +123,11 @@ I'm Wendi Chen, a senior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/fangtiancheng">方天宬</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Monster-007">
-        <img src="https://avatars2.githubusercontent.com/u/73067232" width="100px;" alt="Monster-007"/>
+      <a href="https://github.com/JolyneFr">
+        <img src="https://avatars2.githubusercontent.com/u/59022148" width="100px;" alt="JolyneFr"/>
       </a>
       <br />
-      <a href="https://github.com/Monster-007">Alex3069</a>
+      <a href="https://github.com/JolyneFr">Zhenyu Yang</a>
     </td>
   </tr>
 </table>
