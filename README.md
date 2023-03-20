@@ -72,20 +72,20 @@ I'm Wendi Chen, a senior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/LighghtEeloo">LighghtEeloo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Victrid">
-        <img src="https://avatars2.githubusercontent.com/u/39787044" width="100px;" alt="Victrid"/>
-      </a>
-      <br />
-      <a href="https://github.com/Victrid">Jiang Weihao</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/Dou-Yiming">
         <img src="https://avatars2.githubusercontent.com/u/62940175" width="100px;" alt="Dou-Yiming"/>
       </a>
       <br />
       <a href="https://github.com/Dou-Yiming">Yiming Dou</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Victrid">
+        <img src="https://avatars2.githubusercontent.com/u/39787044" width="100px;" alt="Victrid"/>
+      </a>
+      <br />
+      <a href="https://github.com/Victrid">Jiang Weihao</a>
     </td>
     <td align="center">
       <a href="https://github.com/xavihart">
