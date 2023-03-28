@@ -41,7 +41,7 @@ I'm Wendi Chen, a senior from SJTU, majoring in Computer Science. :computer: I'm
         <img src="https://avatars2.githubusercontent.com/u/55851864" width="100px;" alt="MisakaCenter"/>
       </a>
       <br />
-      <a href="https://github.com/MisakaCenter">Hanzhi Liu</a>
+      <a href="https://github.com/MisakaCenter">MisakaCenter</a>
     </td>
     <td align="center">
       <a href="https://github.com/Galaxies99">
