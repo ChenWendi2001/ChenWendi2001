@@ -123,11 +123,11 @@ I'm Wendi Chen, a senior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/fangtiancheng">方天宬</a>
     </td>
     <td align="center">
-      <a href="https://github.com/markcty">
-        <img src="https://avatars2.githubusercontent.com/u/54015375" width="100px;" alt="markcty"/>
+      <a href="https://github.com/xtommy-1">
+        <img src="https://avatars2.githubusercontent.com/u/27962528" width="100px;" alt="xtommy-1"/>
       </a>
       <br />
-      <a href="https://github.com/markcty">markcty</a>
+      <a href="https://github.com/xtommy-1">Zhemin Huang</a>
     </td>
   </tr>
 </table>
