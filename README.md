@@ -140,11 +140,11 @@ I'm Wendi Chen, a senior from SJTU, majoring in Computer Science. :computer: I'm
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 09 June 2023
+From: 03 June 2023 - To: 10 June 2023
 
-Python   5 hrs 1 min     █████████████████░░░░░░░░   67.36 %
-YAML     2 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   29.41 %
-Other    8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Python   5 hrs 1 min     █████████████████░░░░░░░░   67.57 %
+YAML     2 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   29.51 %
+Other    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 Text     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
