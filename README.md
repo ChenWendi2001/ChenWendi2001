@@ -72,20 +72,20 @@ I'm Wendi Chen, a senior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/Dou-Yiming">Yiming Dou</a>
     </td>
     <td align="center">
-      <a href="https://github.com/LighghtEeloo">
-        <img src="https://avatars2.githubusercontent.com/u/24841828" width="100px;" alt="LighghtEeloo"/>
-      </a>
-      <br />
-      <a href="https://github.com/LighghtEeloo">LighghtEeloo</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/CWHer">
         <img src="https://avatars2.githubusercontent.com/u/31888981" width="100px;" alt="CWHer"/>
       </a>
       <br />
       <a href="https://github.com/CWHer">Wenhao Chen</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/LighghtEeloo">
+        <img src="https://avatars2.githubusercontent.com/u/24841828" width="100px;" alt="LighghtEeloo"/>
+      </a>
+      <br />
+      <a href="https://github.com/LighghtEeloo">LighghtEeloo</a>
     </td>
     <td align="center">
       <a href="https://github.com/Victrid">
@@ -123,11 +123,11 @@ I'm Wendi Chen, a senior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/fangtiancheng">方天宬</a>
     </td>
     <td align="center">
-      <a href="https://github.com/xtommy-1">
-        <img src="https://avatars2.githubusercontent.com/u/27962528" width="100px;" alt="xtommy-1"/>
+      <a href="https://github.com/Lucky-Lance">
+        <img src="https://avatars2.githubusercontent.com/u/77819606" width="100px;" alt="Lucky-Lance"/>
       </a>
       <br />
-      <a href="https://github.com/xtommy-1">Zhemin Huang</a>
+      <a href="https://github.com/Lucky-Lance">Lucky-Lance</a>
     </td>
   </tr>
 </table>
