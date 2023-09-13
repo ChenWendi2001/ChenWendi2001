@@ -48,7 +48,7 @@ I'm Wendi Chen, a senior from SJTU, majoring in Computer Science. :computer: I'm
         <img src="https://avatars2.githubusercontent.com/u/48870052" width="100px;" alt="Galaxies99"/>
       </a>
       <br />
-      <a href="https://github.com/Galaxies99">Tony "Galaxies" Fang</a>
+      <a href="https://github.com/Galaxies99">Hongjie (Tony) Fang</a>
     </td>
     <td align="center">
       <a href="https://github.com/YanjieZe">
