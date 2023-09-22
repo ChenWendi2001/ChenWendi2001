@@ -99,7 +99,7 @@ I'm Wendi Chen, a senior from SJTU, majoring in Computer Science. :computer: I'm
         <img src="https://avatars2.githubusercontent.com/u/46107454" width="100px;" alt="xavihart"/>
       </a>
       <br />
-      <a href="https://github.com/xavihart">Chris Xue</a>
+      <a href="https://github.com/xavihart">Chris xUE</a>
     </td>
     <td align="center">
       <a href="https://github.com/Gun9niR">
@@ -116,18 +116,18 @@ I'm Wendi Chen, a senior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/ADSWT518">Yazhou Tang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fangtiancheng">
-        <img src="https://avatars2.githubusercontent.com/u/67567242" width="100px;" alt="fangtiancheng"/>
-      </a>
-      <br />
-      <a href="https://github.com/fangtiancheng">方天宬</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Lucky-Lance">
         <img src="https://avatars2.githubusercontent.com/u/77819606" width="100px;" alt="Lucky-Lance"/>
       </a>
       <br />
       <a href="https://github.com/Lucky-Lance">Lucky-Lance</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fangtiancheng">
+        <img src="https://avatars2.githubusercontent.com/u/67567242" width="100px;" alt="fangtiancheng"/>
+      </a>
+      <br />
+      <a href="https://github.com/fangtiancheng">方天宬</a>
     </td>
   </tr>
 </table>
