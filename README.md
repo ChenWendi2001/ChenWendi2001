@@ -44,18 +44,18 @@ I'm Wendi Chen, a senior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/MisakaCenter">MisakaCenter</a>
     </td>
     <td align="center">
-      <a href="https://github.com/YanjieZe">
-        <img src="https://avatars2.githubusercontent.com/u/59699800" width="100px;" alt="YanjieZe"/>
-      </a>
-      <br />
-      <a href="https://github.com/YanjieZe">Yanjie Ze</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Galaxies99">
         <img src="https://avatars2.githubusercontent.com/u/48870052" width="100px;" alt="Galaxies99"/>
       </a>
       <br />
       <a href="https://github.com/Galaxies99">Hongjie (Tony) Fang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/YanjieZe">
+        <img src="https://avatars2.githubusercontent.com/u/59699800" width="100px;" alt="YanjieZe"/>
+      </a>
+      <br />
+      <a href="https://github.com/YanjieZe">Yanjie Ze</a>
     </td>
     <td align="center">
       <a href="https://github.com/Emiyalzn">
