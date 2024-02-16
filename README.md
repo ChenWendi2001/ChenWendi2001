@@ -140,7 +140,7 @@ I'm Wendi Chen, a senior from SJTU, majoring in Computer Science. :computer: I'm
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 February 2024 - To: 14 February 2024
+From: 08 February 2024 - To: 15 February 2024
 
 Makefile   6 mins          ███████████▒░░░░░░░░░░░░░   45.86 %
 YAML       6 mins          ███████████░░░░░░░░░░░░░░   44.00 %
