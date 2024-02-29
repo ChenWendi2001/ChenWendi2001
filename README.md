@@ -88,18 +88,18 @@ I'm Wendi Chen, a senior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/CWHer">Wenhao Chen</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Victrid">
-        <img src="https://avatars2.githubusercontent.com/u/39787044" width="100px;" alt="Victrid"/>
-      </a>
-      <br />
-      <a href="https://github.com/Victrid">Jiang Weihao</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/xavihart">
         <img src="https://avatars2.githubusercontent.com/u/46107454" width="100px;" alt="xavihart"/>
       </a>
       <br />
       <a href="https://github.com/xavihart">Chris xUE</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Victrid">
+        <img src="https://avatars2.githubusercontent.com/u/39787044" width="100px;" alt="Victrid"/>
+      </a>
+      <br />
+      <a href="https://github.com/Victrid">Jiang Weihao</a>
     </td>
     <td align="center">
       <a href="https://github.com/Gun9niR">
