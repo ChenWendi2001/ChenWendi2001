@@ -109,18 +109,18 @@ I'm Wendi Chen, a senior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/Victrid">Jiang Weihao</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ADSWT518">
-        <img src="https://avatars2.githubusercontent.com/u/58338486" width="100px;" alt="ADSWT518"/>
-      </a>
-      <br />
-      <a href="https://github.com/ADSWT518">Yazhou Tang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Lucky-Lance">
         <img src="https://avatars2.githubusercontent.com/u/77819606" width="100px;" alt="Lucky-Lance"/>
       </a>
       <br />
       <a href="https://github.com/Lucky-Lance">Lucky-Lance</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ADSWT518">
+        <img src="https://avatars2.githubusercontent.com/u/58338486" width="100px;" alt="ADSWT518"/>
+      </a>
+      <br />
+      <a href="https://github.com/ADSWT518">Yazhou Tang</a>
     </td>
     <td align="center">
       <a href="https://github.com/xavier-h-10">
