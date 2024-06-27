@@ -140,13 +140,13 @@ I'm Wendi Chen, a senior from SJTU, majoring in Computer Science. :computer: I'm
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2024 - To: 25 June 2024
+From: 19 June 2024 - To: 26 June 2024
 
-Python        37 hrs 53 mins  ███████████████████▒░░░░░   77.72 %
-YAML          4 hrs 59 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
-Makefile      4 hrs 21 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
-Docker        1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Bash          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Python        37 hrs 24 mins  ███████████████████▒░░░░░   76.93 %
+YAML          5 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+Makefile      4 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+Docker        1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Text          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
