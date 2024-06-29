@@ -92,7 +92,7 @@ I'm Wendi Chen, a senior from SJTU, majoring in Computer Science. :computer: I'm
         <img src="https://avatars2.githubusercontent.com/u/46107454" width="100px;" alt="xavihart"/>
       </a>
       <br />
-      <a href="https://github.com/xavihart">Chris xUE</a>
+      <a href="https://github.com/xavihart">Haotian Xue</a>
     </td>
     <td align="center">
       <a href="https://github.com/Gun9niR">
