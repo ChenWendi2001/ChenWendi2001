@@ -140,7 +140,7 @@ I'm Wendi Chen, a senior from SJTU, majoring in Computer Science. :computer: I'm
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 June 2024 - To: 06 July 2024
+From: 30 June 2024 - To: 07 July 2024
 
 Python   25 mins         ████████████████████████░   95.93 %
 Other    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
