@@ -72,27 +72,27 @@ I'm Wendi Chen, a senior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/Dou-Yiming">Yiming Dou</a>
     </td>
     <td align="center">
+      <a href="https://github.com/KDash211">
+        <img src="https://avatars2.githubusercontent.com/u/132279417" width="100px;" alt="KDash211"/>
+      </a>
+      <br />
+      <a href="https://github.com/KDash211">K'</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/CWHer">
         <img src="https://avatars2.githubusercontent.com/u/31888981" width="100px;" alt="CWHer"/>
       </a>
       <br />
       <a href="https://github.com/CWHer">Wenhao Chen</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/LighghtEeloo">
         <img src="https://avatars2.githubusercontent.com/u/24841828" width="100px;" alt="LighghtEeloo"/>
       </a>
       <br />
       <a href="https://github.com/LighghtEeloo">LighghtEeloo</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/KDash211">
-        <img src="https://avatars2.githubusercontent.com/u/132279417" width="100px;" alt="KDash211"/>
-      </a>
-      <br />
-      <a href="https://github.com/KDash211">K'</a>
     </td>
     <td align="center">
       <a href="https://github.com/Gun9niR">
