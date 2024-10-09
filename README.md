@@ -58,11 +58,11 @@ I'm Wendi Chen, a senior from SJTU, majoring in Computer Science. :computer: I'm
       <a href="https://github.com/Galaxies99">Hongjie (Tony) Fang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/KDash211">
-        <img src="https://avatars2.githubusercontent.com/u/132279417" width="100px;" alt="KDash211"/>
+      <a href="https://github.com/Kula529">
+        <img src="https://avatars2.githubusercontent.com/u/132279417" width="100px;" alt="Kula529"/>
       </a>
       <br />
-      <a href="https://github.com/KDash211">K'</a>
+      <a href="https://github.com/Kula529">Kula Diamond</a>
     </td>
     <td align="center">
       <a href="https://github.com/Emiyalzn">
