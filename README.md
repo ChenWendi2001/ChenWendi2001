@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="Wendi Chen's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ChenWendi2001&show_icons=true">
 I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVIG-SJTU" target="_blank">@MVIG-SJTU</a> 💻. My research interests primarily lie in Embodied AI 🦾.
+
+<img alt="Wendi Chen's github stats" src="https://github-readme-stats.vercel.app/api?username=ChenWendi2001&show_icons=true">
 
 ---
 
