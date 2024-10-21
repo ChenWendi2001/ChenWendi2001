@@ -47,18 +47,18 @@ I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVI
       <a href="https://github.com/MisakaCenter">Hanzhi</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Galaxies99">
-        <img src="https://avatars2.githubusercontent.com/u/48870052" width="100px;" alt="Galaxies99"/>
-      </a>
-      <br />
-      <a href="https://github.com/Galaxies99">Hongjie (Tony) Fang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Kula529">
         <img src="https://avatars2.githubusercontent.com/u/132279417" width="100px;" alt="Kula529"/>
       </a>
       <br />
       <a href="https://github.com/Kula529">Kula Diamond</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Galaxies99">
+        <img src="https://avatars2.githubusercontent.com/u/48870052" width="100px;" alt="Galaxies99"/>
+      </a>
+      <br />
+      <a href="https://github.com/Galaxies99">Hongjie (Tony) Fang</a>
     </td>
     <td align="center">
       <a href="https://github.com/Emiyalzn">
