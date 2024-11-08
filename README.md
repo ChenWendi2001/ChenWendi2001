@@ -26,6 +26,13 @@ I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVI
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/Kula529">
+        <img src="https://avatars2.githubusercontent.com/u/132279417" width="100px;" alt="Kula529"/>
+      </a>
+      <br />
+      <a href="https://github.com/Kula529">Kula Diamond</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/zhijian-liu">
         <img src="https://avatars2.githubusercontent.com/u/5782437" width="100px;" alt="zhijian-liu"/>
       </a>
@@ -38,13 +45,6 @@ I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVI
       </a>
       <br />
       <a href="https://github.com/YanjieZe">Yanjie Ze</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Kula529">
-        <img src="https://avatars2.githubusercontent.com/u/132279417" width="100px;" alt="Kula529"/>
-      </a>
-      <br />
-      <a href="https://github.com/Kula529">Kula Diamond</a>
     </td>
     <td align="center">
       <a href="https://github.com/MisakaCenter">
