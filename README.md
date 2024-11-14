@@ -136,7 +136,7 @@ I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVI
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2024 - To: 11 November 2024
+From: 06 November 2024 - To: 13 November 2024
 
 Markdown         3 hrs 47 mins   █████████████░░░░░░░░░░░░   52.65 %
 Python           2 hrs 9 mins    ███████▒░░░░░░░░░░░░░░░░░   29.81 %
