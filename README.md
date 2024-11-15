@@ -119,11 +119,11 @@ I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVI
       <a href="https://github.com/Lucky-Lance">Lucky-Lance</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ADSWT518">
-        <img src="https://avatars2.githubusercontent.com/u/58338486" width="100px;" alt="ADSWT518"/>
+      <a href="https://github.com/xavier-h-10">
+        <img src="https://avatars2.githubusercontent.com/u/27962528" width="100px;" alt="xavier-h-10"/>
       </a>
       <br />
-      <a href="https://github.com/ADSWT518">Yazhou Tang</a>
+      <a href="https://github.com/xavier-h-10">Zhemin Huang</a>
     </td>
   </tr>
 </table>
