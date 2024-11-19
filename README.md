@@ -136,13 +136,13 @@ I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVI
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2024 - To: 17 November 2024
+From: 11 November 2024 - To: 18 November 2024
 
-Python             3 hrs           █████████████████▓░░░░░░░   70.55 %
-Markdown           23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-YAML               17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-Makefile           13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Text               5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Python             3 hrs 55 mins   ████████████████▒░░░░░░░░   65.06 %
+Markdown           1 hr 2 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
+YAML               29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
+Makefile           13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Text               5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
