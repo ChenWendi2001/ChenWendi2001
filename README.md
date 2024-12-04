@@ -54,11 +54,11 @@ I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVI
       <a href="https://github.com/zhijian-liu">Zhijian Liu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/MisakaCenter">
-        <img src="https://avatars2.githubusercontent.com/u/55851864" width="100px;" alt="MisakaCenter"/>
+      <a href="https://github.com/trackoor">
+        <img src="https://avatars2.githubusercontent.com/u/55851864" width="100px;" alt="trackoor"/>
       </a>
       <br />
-      <a href="https://github.com/MisakaCenter">Hanzhi</a>
+      <a href="https://github.com/trackoor">Hanzhi</a>
     </td>
     <td align="center">
       <a href="https://github.com/Galaxies99">
