@@ -33,6 +33,13 @@ I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVI
       <a href="https://github.com/idimetrix">Dmitry Selikhov</a>
     </td>
     <td align="center">
+      <a href="https://github.com/XiaomingX">
+        <img src="https://avatars2.githubusercontent.com/u/5387930" width="100px;" alt="XiaomingX"/>
+      </a>
+      <br />
+      <a href="https://github.com/XiaomingX">Y11</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Kula529">
         <img src="https://avatars2.githubusercontent.com/u/132279417" width="100px;" alt="Kula529"/>
       </a>
@@ -67,6 +74,8 @@ I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVI
       <br />
       <a href="https://github.com/Galaxies99">Hongjie (Tony) Fang</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Emiyalzn">
         <img src="https://avatars2.githubusercontent.com/u/67998047" width="100px;" alt="Emiyalzn"/>
@@ -74,8 +83,6 @@ I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVI
       <br />
       <a href="https://github.com/Emiyalzn">Zenan Li</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Dou-Yiming">
         <img src="https://avatars2.githubusercontent.com/u/62940175" width="100px;" alt="Dou-Yiming"/>
@@ -117,13 +124,6 @@ I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVI
       </a>
       <br />
       <a href="https://github.com/Victrid">Weihao Jiang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Lucky-Lance">
-        <img src="https://avatars2.githubusercontent.com/u/77819606" width="100px;" alt="Lucky-Lance"/>
-      </a>
-      <br />
-      <a href="https://github.com/Lucky-Lance">Lucky-Lance</a>
     </td>
   </tr>
 </table>
