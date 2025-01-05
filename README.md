@@ -58,7 +58,7 @@ I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVI
         <img src="https://avatars2.githubusercontent.com/u/55851864" width="100px;" alt="trackoor"/>
       </a>
       <br />
-      <a href="https://github.com/trackoor">Hanzhi</a>
+      <a href="https://github.com/trackoor">trackoor</a>
     </td>
     <td align="center">
       <a href="https://github.com/Galaxies99">
