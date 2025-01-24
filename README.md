@@ -40,6 +40,13 @@ I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVI
       <a href="https://github.com/idimetrix">Dmitry Selikhov</a>
     </td>
     <td align="center">
+      <a href="https://github.com/nholuongut">
+        <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
+      </a>
+      <br />
+      <a href="https://github.com/nholuongut">Nho Luong</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Kula529">
         <img src="https://avatars2.githubusercontent.com/u/132279417" width="100px;" alt="Kula529"/>
       </a>
@@ -67,6 +74,8 @@ I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVI
       <br />
       <a href="https://github.com/trackoor">trackoor</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Galaxies99">
         <img src="https://avatars2.githubusercontent.com/u/48870052" width="100px;" alt="Galaxies99"/>
@@ -74,8 +83,6 @@ I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVI
       <br />
       <a href="https://github.com/Galaxies99">Hongjie (Tony) Fang</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Emiyalzn">
         <img src="https://avatars2.githubusercontent.com/u/67998047" width="100px;" alt="Emiyalzn"/>
@@ -117,13 +124,6 @@ I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVI
       </a>
       <br />
       <a href="https://github.com/Gun9niR">Zhidong (David) Guo</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Victrid">
-        <img src="https://avatars2.githubusercontent.com/u/39787044" width="100px;" alt="Victrid"/>
-      </a>
-      <br />
-      <a href="https://github.com/Victrid">Weihao Jiang</a>
     </td>
   </tr>
 </table>
