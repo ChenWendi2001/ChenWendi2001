@@ -40,6 +40,13 @@ I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVI
       <a href="https://github.com/idimetrix">Dmitry Selikhov</a>
     </td>
     <td align="center">
+      <a href="https://github.com/standardgalactic">
+        <img src="https://avatars2.githubusercontent.com/u/43516554" width="100px;" alt="standardgalactic"/>
+      </a>
+      <br />
+      <a href="https://github.com/standardgalactic">Cogito Ergo Sum</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/nholuongut">
         <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
       </a>
@@ -67,6 +74,8 @@ I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVI
       <br />
       <a href="https://github.com/zhijian-liu">Zhijian Liu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/trackoor">
         <img src="https://avatars2.githubusercontent.com/u/55851864" width="100px;" alt="trackoor"/>
@@ -74,8 +83,6 @@ I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVI
       <br />
       <a href="https://github.com/trackoor">trackoor</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Galaxies99">
         <img src="https://avatars2.githubusercontent.com/u/48870052" width="100px;" alt="Galaxies99"/>
@@ -110,13 +117,6 @@ I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVI
       </a>
       <br />
       <a href="https://github.com/LighghtEeloo">LighghtEeloo</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Gun9niR">
-        <img src="https://avatars2.githubusercontent.com/u/52783948" width="100px;" alt="Gun9niR"/>
-      </a>
-      <br />
-      <a href="https://github.com/Gun9niR">Zhidong (David) Guo</a>
     </td>
     <td align="center">
       <a href="https://github.com/xavihart">
