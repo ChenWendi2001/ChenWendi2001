@@ -136,13 +136,13 @@ I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVI
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2025 - To: 07 March 2025
+From: 01 March 2025 - To: 08 March 2025
 
-HTML         16 hrs 20 mins  ████████████████████▒░░░░   81.83 %
-CSS          1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
-Markdown     57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-JavaScript   49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-YAML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+HTML         15 hrs 27 mins  ████████████████████▓░░░░   82.69 %
+CSS          58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+Markdown     54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+JavaScript   49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+YAML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
