@@ -138,13 +138,13 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2025 - To: 14 March 2025
+From: 08 March 2025 - To: 15 March 2025
 
-HTML               6 hrs 17 mins   █████████████████▓░░░░░░░   70.35 %
-Markdown           1 hr 6 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
-Python             38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-CSS                21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-Other              15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+HTML               5 hrs 33 mins   █████████████████░░░░░░░░   67.73 %
+Markdown           1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
+Python             38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+CSS                21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Other              15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 ```
 
 <!--END_SECTION:waka-->
