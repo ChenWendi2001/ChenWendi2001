@@ -138,7 +138,7 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2025 - To: 24 March 2025
+From: 18 March 2025 - To: 25 March 2025
 
 Python         17 hrs 18 mins  ████████████████████░░░░░   80.07 %
 Bash           1 hr 48 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
