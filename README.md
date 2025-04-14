@@ -138,7 +138,7 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2025 - To: 12 April 2025
+From: 06 April 2025 - To: 13 April 2025
 
 Python             11 hrs 7 mins   ███████████████░░░░░░░░░░   60.11 %
 Markdown           2 hrs 39 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
