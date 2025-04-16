@@ -138,13 +138,13 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2025 - To: 14 April 2025
+From: 08 April 2025 - To: 15 April 2025
 
-Python           9 hrs 55 mins   ████████████████▒░░░░░░░░   65.43 %
-Markdown         2 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.20 %
-YAML             1 hr 41 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-Text             31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-HTML             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Python           10 hrs          ████████████████████▒░░░░   81.34 %
+YAML             1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+Text             31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+HTML             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Shell Script     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
