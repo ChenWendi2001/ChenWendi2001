@@ -63,12 +63,21 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       <a href="https://github.com/trinhminhtriet">Triet Trinh</a>
     </td>
     <td align="center">
+      <a href="https://github.com/nstrmx">
+        <img src="https://avatars2.githubusercontent.com/u/45055549" width="100px;" alt="nstrmx"/>
+      </a>
+      <br />
+      <a href="https://github.com/nstrmx">Den</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Kula529">
         <img src="https://avatars2.githubusercontent.com/u/132279417" width="100px;" alt="Kula529"/>
       </a>
       <br />
       <a href="https://github.com/Kula529">Kula Diamond</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/YanjieZe">
         <img src="https://avatars2.githubusercontent.com/u/59699800" width="100px;" alt="YanjieZe"/>
@@ -76,8 +85,6 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       <br />
       <a href="https://github.com/YanjieZe">Yanjie Ze</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/zhijian-liu">
         <img src="https://avatars2.githubusercontent.com/u/5782437" width="100px;" alt="zhijian-liu"/>
@@ -119,13 +126,6 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       </a>
       <br />
       <a href="https://github.com/CWHer">Wenhao Chen</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/LighghtEeloo">
-        <img src="https://avatars2.githubusercontent.com/u/24841828" width="100px;" alt="LighghtEeloo"/>
-      </a>
-      <br />
-      <a href="https://github.com/LighghtEeloo">LighghtEeloo</a>
     </td>
   </tr>
 </table>
