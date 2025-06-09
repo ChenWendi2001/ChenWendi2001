@@ -138,7 +138,7 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2025 - To: 07 June 2025
+From: 01 June 2025 - To: 08 June 2025
 
 Python             8 hrs 57 mins   ████████████████▒░░░░░░░░   65.12 %
 YAML               3 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   23.37 %
