@@ -107,11 +107,11 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       <a href="https://github.com/Dou-Yiming">Yiming Dou</a>
     </td>
     <td align="center">
-      <a href="https://github.com/CWHer">
-        <img src="https://avatars2.githubusercontent.com/u/31888981" width="100px;" alt="CWHer"/>
+      <a href="https://github.com/cwher">
+        <img src="https://avatars2.githubusercontent.com/u/31888981" width="100px;" alt="cwher"/>
       </a>
       <br />
-      <a href="https://github.com/CWHer">Wenhao Chen</a>
+      <a href="https://github.com/cwher">Wenhao Chen</a>
     </td>
     <td align="center">
       <a href="https://github.com/HaoyiZhu">
