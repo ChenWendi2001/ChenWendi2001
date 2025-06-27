@@ -114,18 +114,18 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       <a href="https://github.com/anyeZHY">Haoyu Zhen</a>
     </td>
     <td align="center">
-      <a href="https://github.com/cwher">
-        <img src="https://avatars2.githubusercontent.com/u/31888981" width="100px;" alt="cwher"/>
-      </a>
-      <br />
-      <a href="https://github.com/cwher">Wenhao Chen</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/HaoyiZhu">
         <img src="https://avatars2.githubusercontent.com/u/63538191" width="100px;" alt="HaoyiZhu"/>
       </a>
       <br />
       <a href="https://github.com/HaoyiZhu">Haoyi Zhu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cwher">
+        <img src="https://avatars2.githubusercontent.com/u/31888981" width="100px;" alt="cwher"/>
+      </a>
+      <br />
+      <a href="https://github.com/cwher">Wenhao Chen</a>
     </td>
   </tr>
 </table>
