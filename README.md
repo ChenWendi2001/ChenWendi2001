@@ -100,13 +100,6 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       <a href="https://github.com/Galaxies99">Hongjie (Tony) Fang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/c0d3cr4ft3r">
-        <img src="https://avatars2.githubusercontent.com/u/71809429" width="100px;" alt="c0d3cr4ft3r"/>
-      </a>
-      <br />
-      <a href="https://github.com/c0d3cr4ft3r">Code Crafter</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Emiyalzn">
         <img src="https://avatars2.githubusercontent.com/u/67998047" width="100px;" alt="Emiyalzn"/>
       </a>
@@ -126,6 +119,13 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       </a>
       <br />
       <a href="https://github.com/Dou-Yiming">Yiming Dou</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anyeZHY">
+        <img src="https://avatars2.githubusercontent.com/u/47559723" width="100px;" alt="anyeZHY"/>
+      </a>
+      <br />
+      <a href="https://github.com/anyeZHY">Haoyu Zhen</a>
     </td>
   </tr>
 </table>
