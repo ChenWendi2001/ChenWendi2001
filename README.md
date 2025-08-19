@@ -114,18 +114,18 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       <a href="https://github.com/HaoyiZhu">Haoyi Zhu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Dou-Yiming">
-        <img src="https://avatars2.githubusercontent.com/u/62940175" width="100px;" alt="Dou-Yiming"/>
-      </a>
-      <br />
-      <a href="https://github.com/Dou-Yiming">Yiming Dou</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/anyeZHY">
         <img src="https://avatars2.githubusercontent.com/u/47559723" width="100px;" alt="anyeZHY"/>
       </a>
       <br />
       <a href="https://github.com/anyeZHY">Haoyu Zhen</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Dou-Yiming">
+        <img src="https://avatars2.githubusercontent.com/u/62940175" width="100px;" alt="Dou-Yiming"/>
+      </a>
+      <br />
+      <a href="https://github.com/Dou-Yiming">Yiming Dou</a>
     </td>
   </tr>
 </table>
