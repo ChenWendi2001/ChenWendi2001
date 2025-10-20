@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Wendi Chen, a computer science Ph.D. student <a href="https://github.com/MVIG-SJTU" target="_blank">@MVIG-SJTU</a> 💻.
+I'm Wendi Chen, a computer science Ph.D. student <a href="https://www.mvig.org" target="_blank">@MVIG-SJTU</a> and <a href="https://www.sii.edu.cn" target="_blank">@SII</a> 💻.
 My research interests focus on Embodied AI and Robotics 🦾.
 For more information, please visit my <a href="https://wendichen.me" target="_blank">homepage</a>.
 
