@@ -49,6 +49,13 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       <a href="https://github.com/idimetrix">Dmitry Selikhov</a>
     </td>
     <td align="center">
+      <a href="https://github.com/XiaomingX">
+        <img src="https://avatars2.githubusercontent.com/u/5387930" width="100px;" alt="XiaomingX"/>
+      </a>
+      <br />
+      <a href="https://github.com/XiaomingX">Y11</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/nholuongut">
         <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
       </a>
@@ -69,6 +76,8 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       <br />
       <a href="https://github.com/YanjieZe">Yanjie Ze</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/zhijian-liu">
         <img src="https://avatars2.githubusercontent.com/u/5782437" width="100px;" alt="zhijian-liu"/>
@@ -76,8 +85,6 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       <br />
       <a href="https://github.com/zhijian-liu">Zhijian Liu</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/trackoor">
         <img src="https://avatars2.githubusercontent.com/u/55851864" width="100px;" alt="trackoor"/>
@@ -119,13 +126,6 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       </a>
       <br />
       <a href="https://github.com/Dou-Yiming">Yiming Dou</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/anyeZHY">
-        <img src="https://avatars2.githubusercontent.com/u/47559723" width="100px;" alt="anyeZHY"/>
-      </a>
-      <br />
-      <a href="https://github.com/anyeZHY">Haoyu Zhen</a>
     </td>
   </tr>
 </table>
