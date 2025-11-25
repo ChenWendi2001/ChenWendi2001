@@ -63,18 +63,18 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       <a href="https://github.com/nholuongut">Nho Luong</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Kula529">
-        <img src="https://avatars2.githubusercontent.com/u/132279417" width="100px;" alt="Kula529"/>
-      </a>
-      <br />
-      <a href="https://github.com/Kula529">Kula Diamond</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/YanjieZe">
         <img src="https://avatars2.githubusercontent.com/u/59699800" width="100px;" alt="YanjieZe"/>
       </a>
       <br />
       <a href="https://github.com/YanjieZe">Yanjie Ze</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Kula529">
+        <img src="https://avatars2.githubusercontent.com/u/132279417" width="100px;" alt="Kula529"/>
+      </a>
+      <br />
+      <a href="https://github.com/Kula529">Kula Diamond</a>
     </td>
   </tr>
   <tr>
@@ -121,11 +121,11 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
       <a href="https://github.com/HaoyiZhu">Haoyi Zhu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Dou-Yiming">
-        <img src="https://avatars2.githubusercontent.com/u/62940175" width="100px;" alt="Dou-Yiming"/>
+      <a href="https://github.com/anyeZHY">
+        <img src="https://avatars2.githubusercontent.com/u/47559723" width="100px;" alt="anyeZHY"/>
       </a>
       <br />
-      <a href="https://github.com/Dou-Yiming">Yiming Dou</a>
+      <a href="https://github.com/anyeZHY">Haoyu Zhen</a>
     </td>
   </tr>
 </table>
