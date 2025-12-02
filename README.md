@@ -83,7 +83,7 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
         <img src="https://avatars2.githubusercontent.com/u/55851864" width="100px;" alt="trackoor"/>
       </a>
       <br />
-      <a href="https://github.com/trackoor">trackoor</a>
+      <a href="https://github.com/trackoor">Hanzhi</a>
     </td>
     <td align="center">
       <a href="https://github.com/g1n0st">
