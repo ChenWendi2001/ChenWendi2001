@@ -138,13 +138,13 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2026 - To: 31 January 2026
+From: 25 January 2026 - To: 01 February 2026
 
-Python     8 hrs 48 mins   ████████████████████▒░░░░   81.64 %
-YAML       1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-Makefile   24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Bash       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-Text       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Python     7 hrs 28 mins   ████████████████████▓░░░░   82.73 %
+YAML       46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+Makefile   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+HTML       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Bash       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
