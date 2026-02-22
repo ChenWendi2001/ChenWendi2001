@@ -18,7 +18,7 @@ I'm Wendi Chen, a computer science Ph.D. student <a href="https://www.mvig.org" 
 My research interests focus on Embodied AI and Robotics 🦾.
 For more information, please visit my <a href="https://wendichen.me" target="_blank">homepage</a>.
 
-<img alt="Wendi Chen's github stats" src="https://github-readme-stats.vercel.app/api?username=ChenWendi2001&show_icons=true">
+<img alt="Wendi Chen's github stats" src="https://github-readme-stats.vercel.app/api?username=Chen-Wendi&show_icons=true">
 
 ---
 
