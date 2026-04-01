@@ -79,18 +79,18 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/trackoor">
-        <img src="https://avatars2.githubusercontent.com/u/55851864" width="100px;" alt="trackoor"/>
-      </a>
-      <br />
-      <a href="https://github.com/trackoor">Hanzhi</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/g1n0st">
         <img src="https://avatars2.githubusercontent.com/u/34199452" width="100px;" alt="g1n0st"/>
       </a>
       <br />
       <a href="https://github.com/g1n0st">Chang Yu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/trackoor">
+        <img src="https://avatars2.githubusercontent.com/u/55851864" width="100px;" alt="trackoor"/>
+      </a>
+      <br />
+      <a href="https://github.com/trackoor">Hanzhi</a>
     </td>
     <td align="center">
       <a href="https://github.com/Galaxies99">
