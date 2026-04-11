@@ -138,13 +138,13 @@ For more information, please visit my <a href="https://wendichen.me" target="_bl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 April 2026 - To: 09 April 2026
+From: 03 April 2026 - To: 10 April 2026
 
-JSON         108 hrs 53 mins       ███████████████████████░░   92.16 %
-Python       6 hrs 23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-Bash         59 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Markdown     50 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-Other        41 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+JSON         101 hrs 53 mins       ███████████████████████░░   92.05 %
+Python       6 hrs 27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Bash         1 hr 8 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Markdown     50 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Other        14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
